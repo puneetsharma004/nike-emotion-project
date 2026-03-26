@@ -15,8 +15,8 @@ focused on clean UI, scalable styling, and component-based architecture.
 
 ## 📥 Getting Started
 ```bash
-git clone -b setup <your-repo-url>
-cd <your-repo-name>
+git clone -b setup https://github.com/puneetsharma004/nike-emotion-project.git
+cd nike-emotion-project
 npm install
 npm run dev
 ```
